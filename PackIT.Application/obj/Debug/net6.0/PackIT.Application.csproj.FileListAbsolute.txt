@@ -1,0 +1,12 @@
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\bin\Debug\net6.0\PackIT.Application.deps.json
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\bin\Debug\net6.0\PackIT.Application.dll
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\bin\Debug\net6.0\PackIT.Application.pdb
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\obj\Debug\net6.0\PackIT.Application.csproj.AssemblyReference.cache
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\obj\Debug\net6.0\PackIT.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\obj\Debug\net6.0\PackIT.Application.AssemblyInfoInputs.cache
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\obj\Debug\net6.0\PackIT.Application.AssemblyInfo.cs
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\obj\Debug\net6.0\PackIT.Application.csproj.CoreCompileInputs.cache
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\obj\Debug\net6.0\PackIT.Application.dll
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\obj\Debug\net6.0\refint\PackIT.Application.dll
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\obj\Debug\net6.0\PackIT.Application.pdb
+F:\__111 COMPUTER SCIENCE\4th CSE 2022\dotnet\dev\PackIT\PackIT.Application\obj\Debug\net6.0\ref\PackIT.Application.dll

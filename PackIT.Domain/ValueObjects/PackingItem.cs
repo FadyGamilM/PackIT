@@ -5,10 +5,10 @@ namespace PackIT.Domain.ValueObjects
    public record PackingItem
    {
       public string Name { get;  }
-      public int Quantity { get;  }
+      public uint Quantity { get;  }
       public bool IsPacked { get; init;}
 
-      public PackingItem(string name, int quantity, bool isPacked)
+      public PackingItem(string name, uint quantity, bool isPacked=false)
       {
          // item name validation 
          if (string.IsNullOrWhiteSpace(name))

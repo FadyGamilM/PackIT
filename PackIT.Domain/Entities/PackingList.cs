@@ -20,12 +20,11 @@ namespace PackIT.Domain.Entities
       //* the items in this package
       private readonly LinkedList<PackingItem> _items  = new();
       // Constructor
-      internal PackingList(Guid id, PackingListName name, Localization localization, LinkedList<PackingItem> items)
+      internal PackingList(PackingListId id, PackingListName name, Localization localization)
       {
          Id = id;
          _name = name;
          _localization = localization;
-         _items = items;
       }
 
       //! Methods to add and remove items from the list
